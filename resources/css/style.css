@@ -1,0 +1,36 @@
+* {
+	text-align: center;
+	font-family: Verdana;
+	background-color: black;
+}
+
+.main {
+	font-weight: normal;
+	font-size: 50px;
+	color: white;
+}
+
+a {
+	color: Aquamarine;
+	font-size: 16px;
+}
+
+h1 {
+	font-weight: 300;
+	font-size: 42px;
+	color: white;
+}
+
+p {
+	font-size: 21px;
+	color: Gray;
+}
+
+.mark {
+	text-align: right;
+	color: Gray;
+}
+
+video {
+	border-radius: 5%;
+}
